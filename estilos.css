@@ -21,3 +21,25 @@ main{
 body{
     background-color: #f0f0f0;
 }
+
+/* este es el cpdigo que yo he hecho:
+form{
+    background-color: lightblue;
+    line-height: 25px;
+}
+textarea, input{
+    background-color: white;
+    display: inline-block;
+}
+label{
+    display: inline-block;
+    width: 60px;
+    
+}
+#enviar{
+    background-color: white;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+} */
